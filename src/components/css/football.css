@@ -1,0 +1,210 @@
+.login-container{
+    width:300px;
+}
+.Header1{
+    width:120px;
+    height:80px;
+  }
+  .First{
+    background-color: black;
+  }
+ 
+  .titlee{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+    font-size: 20px;
+    margin-top: 2px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  .box1{
+    border: 5px solid rgba(128, 128, 128, 0.541);
+    box-shadow: 2px 5px 5px gray;
+    background-color: bisque;
+    margin-bottom: 20px;
+  }
+  .box2{
+    border: 5px solid rgba(128, 128, 128, 0.541);
+    background-color: bisque;
+  }
+  .box3{
+    border: 5px solid rgba(68, 10, 229, 0.541);
+    background-color: bisque;
+  }
+  .box4{
+    border: 5px solid rgba(128, 128, 128, 0.541);
+    box-shadow: 2px 5px 5px gray;
+    background-color: bisque;
+    margin-bottom: 20px;
+    width: 600px;
+    margin-left: 40px;
+    margin-top:50px
+  }
+  .smallimage{
+    width:25rem;
+    margin-left:-5px;
+  }
+  .searchimage{
+    width:40px;
+    height:39px;
+    margin-top: 1px;
+    border: 2px solid white;
+  }
+  .marginn{
+    margin-left: -180px;
+  }
+  .marginn1{
+    margin-left: -120px;
+  }
+  .marginn3{
+    margin-left: -150px;
+  }
+  .image22{
+    width: 75rem;
+  }
+   .image23{
+    width: 81.9rem;
+  }
+  .searchbox{
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid rgb(157, 217, 18);
+    width:700px;
+    margin-top: 10px;
+}
+.searchImage{
+    width:50px;
+    height:40px;
+
+    border-radius: 20px;
+
+}
+  .searchbar{
+    height:40px;
+    width:600px;
+  }
+
+  .Sign{
+    width:400px;
+  }
+  .image2{
+    width: 20px;
+    height: 20px;
+  }
+  .image3{
+    width: 70px;
+    height: 60px;
+  }
+  .addr{
+    font-size: smaller;
+    width:400px;
+  }
+  .check1{
+    display: flex;
+    flex:wrap;
+  }
+  .linkref{
+    margin-left: 30rem;
+  }
+  .linkref2{
+    margin-top: 4rem;
+  }
+  button.add {
+    background-color: #40c0f0;
+    width: 1.5rem;
+  }
+  button.remove {
+    background-color: #f04040;
+    width: 1.5rem;
+    margin-left: 7rem;
+  }
+  .button2{
+    margin-left: 10px;
+    margin-top: 2px;
+    margin-bottom: -10px;
+  }
+  .Box11{
+    border:2px solid green;
+    
+  }
+  .check22{
+    width:200px;
+    height:300px;
+  }
+  .cart{
+    margin-left: 15px;
+  }
+  .return{
+    width: 200px;
+  }
+  .cardBody1{
+    background-color: rgba(226, 43, 153, 0.285);
+    font-size: x-large;
+  }
+.drop{
+    margin-top: 30px;
+    margin-left: -60px;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+.image3{
+  margin-top: -15px;
+}
+.titleCard{
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: xx-large;
+  background-color: rgba(93, 88, 88, 0.444)
+}
+.imageCard{
+  width:90px;
+  height:200px;
+}
+.imageCard1{
+  width:90px;
+  height:90px;
+  margin-left: 50px;
+}
+button.badge {
+  background-color: #f04040;
+  border: none;
+  color: #ffffff;
+  width: 1.5rem;
+}
+.testbox{
+ border: 2px solid blue;
+ width:21rem;
+ display: flex;
+ flex-wrap: wrap;
+}
+.logoc{
+  margin-right: 30rem;
+}
+.imageCardCart{
+  width:160px;
+  height:200px;
+}
+.imageCard1{
+  width:100px;
+  height:400;
+  border:2px solid rgb(28, 90, 214);
+}
+
+.cardBody{
+  margin:2px;
+  background-color:  rgba(16, 230, 230, 0.318)
+
+}
+.contactHeader{
+  margin:10px;
+  background-color:  rgba(16, 230, 230, 0.515);
+
+
+}
+.singlecard{
+  background-color: rgb(8, 170, 175);
+}
+  
